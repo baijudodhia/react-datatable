@@ -52,9 +52,6 @@ dist/*
 es/*
 lib/*
 
-# Docs
-docs/.next/*
-docs/export/*
 .firebase/
 
 # Optional REPL history
@@ -68,6 +65,6 @@ docs/export/*
 .yarn-integrity
 
 # Yarn lock
-# Note: 
+# Note:
 # Remove the line below when we switched to Yarn
 yarn.lock
