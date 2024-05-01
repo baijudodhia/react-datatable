@@ -16,7 +16,7 @@ const useStyles = makeStyles({ name: 'MUIDataTableJumpToPage' })(theme => ({
   caption: {
     flexShrink: 0,
   },
-  /*  Styles applied to the Select component root element */
+  /*  Styles applied to the Select component root element */
   selectRoot: {
     marginRight: 32,
     marginLeft: 8,

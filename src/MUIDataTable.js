@@ -586,7 +586,7 @@ class MUIDataTable extends React.Component {
   getTableContentRef = () => this.tableContent.current;
 
   /*
-   *  Build the source table data
+   *  Build the source table data
    *
    *  newColumns - columns from the options object.
    *  prevColumns - columns object saved onto ths state.
